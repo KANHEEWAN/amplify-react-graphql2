@@ -32,6 +32,9 @@
     "categories": {
       "auth": {
         "amplifyappeb6ac3b8": {}
+      },
+      "api": {
+        "notesapp": {}
       }
     }
   }
